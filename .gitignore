@@ -1,0 +1,51 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+env/
+ENV/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results (optional - uncomment if you don't want to upload results)
+# results/plots/*.png
+# results/metrics/*.csv
+# results/logs/*.log
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.npm
+
+# React
+web-simulator/cfn-web-app/build/
+web-simulator/cfn-web-app/.env.local
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig

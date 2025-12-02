@@ -1,0 +1,16 @@
+{
+  "name": "Sample VNF Workload",
+  "description": "20 VNF requests for testing",
+  "vnfs": [
+    {"id": "vnf_1", "type": "video-processing"},
+    {"id": "vnf_2", "type": "ai-inference"},
+    {"id": "vnf_3", "type": "database-cache"},
+    {"id": "vnf_4", "type": "cdn-edge"},
+    {"id": "vnf_5", "type": "iot-gateway"},
+    {"id": "vnf_6", "type": "video-processing"},
+    {"id": "vnf_7", "type": "ai-inference"},
+    {"id": "vnf_8", "type": "database-cache"},
+    {"id": "vnf_9", "type": "cdn-edge"},
+    {"id": "vnf_10", "type": "iot-gateway"}
+  ]
+}

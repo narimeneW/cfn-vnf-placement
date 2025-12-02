@@ -1,0 +1,19 @@
+# Core Scientific Libraries
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# Optimization
+pulp>=2.7.0
+
+# Network Analysis
+networkx>=3.0
+
+# Machine Learning (Optional)
+gymnasium>=0.29.0
+torch>=2.0.0
+
+# Development Tools (Optional)
+pytest>=7.0.0
+black>=23.0.0
+pylint>=2.17.0
