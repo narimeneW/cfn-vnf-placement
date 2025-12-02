@@ -111,10 +111,6 @@ Optimal placement using Integer Linear Programming.
 **Time Complexity:** NP-hard (exponential worst case)
 
 
-
-
-## 🧩 Extending the Project
-
 ### Adding New Algorithms
 
 Create a new class in `main.py`:
