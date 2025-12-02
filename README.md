@@ -5,7 +5,6 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![React Version](https://img.shields.io/badge/react-18.0%2B-61dafb)](https://reactjs.org/)
 
-![Demo](docs/demo-screenshot.png)
 
 ## 🎯 Project Overview
 
